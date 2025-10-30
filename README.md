@@ -1,4 +1,4 @@
-# 🧩 Exercício — Jogo do Quente ou Frio, Fase 2 (Python).
+# 🧩 Jogo do Quente ou Frio, Fase 2 (Python).
 
 Versão ampliada do jogo **“Quente ou Frio”**, agora com **interface gráfica** e **análise visual das jogadas** em Python.
 
